@@ -1,2 +1,2 @@
 # Wanani
-Web platform  to improve traditional vendor methods.
+Web platform  to improve traditional vendor credit methods.
